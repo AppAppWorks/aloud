@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 # Privacy Policy
-This privacy policy governs your use of the software application Aloud! (“Application”) for mobile devices that was created by AppAppWorks. The Application is&nbsp;a text to speech reader that synthesizes speech from plain text supporting several languages. Users can import text in various formats like PDF, DOCX, EPUB and etc, and have the contents and reading progresses stored for easy access.&nbsp; 
+This privacy policy governs your use of the software application Aloud! - Text to Speech (“Application”) for mobile devices that was created by AppAppWorks. The Application is&nbsp;a text to speech reader that synthesizes speech from plain text supporting several languages. Users can import text in various formats like PDF, DOCX, EPUB and etc, and have the contents and reading progresses stored for easy access.&nbsp; 
 
 ## What information does the Application obtain and how is it used?
 
@@ -60,7 +60,7 @@ There are multiple opt-out options for users of this Application:
 
 ### Data Retention Policy, Managing Your Information
 
-We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at privacy@appappworks.com and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
+We will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. We will retain Automatically Collected information for up to 24 months and thereafter may store it in aggregate. If you’d like us to delete User Provided Data that you have provided via the Application, please contact us at [privacy@appappworks.com](mailto:privacy@appappworks.com) and we will respond in a reasonable time. Please note that some or all of the User Provided Data may be required in order for the Application to function properly.
 
  
 
@@ -84,10 +84,10 @@ This Privacy Policy may be updated from time to time for any reason. We will not
 
 ### Your Consent
 
-By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in the United States. If you reside outside the United States your information will be transferred, processed and stored there under United States privacy standards. 
+By using the Application, you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. "Processing,” means using cookies on a computer/hand held device or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in Hong Kong. If you reside outside Hong Kong your information will be transferred, processed and stored there under Hong Kong privacy standards. 
 
  
 
 ## Contact us
 
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at privacy@appappworks.com.
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at [privacy@appappworks.com](mailto:privacy@appappworks.com).
