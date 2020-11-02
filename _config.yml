@@ -26,7 +26,7 @@ email_address                             : info@appappworks.com
 facebook_username                         : appappworks                                          
 instagram_username                        : 
 twitter_username                          : appappworks
-github_username                           : appappworks
+github_username                           : 
 youtube_username                          :
 
 
@@ -35,20 +35,20 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Multi-language Support
-    description                           : Aloud! supports multiple languages, including English, Spanish, German, Portuguese, etc.
-    fontawesome_icon_name                 : magic
+    description                           : Aloud! supports multiple languages, including English, Spanish, German, Portuguese, etc. Whether you're a native speaker or a language learner, Aloud! has you covered. 
+    fontawesome_icon_name                 : language
     
   - title                                 : Multi-format Support
-    description                           : Aloud! supports multiple popular text formats. Start listening to PDF, ePub, docx, iWork Pages files now!
-    fontawesome_icon_name                 : mobile
+    description                           : Aloud! supports numerous popular text formats. Not only PDF, ePub, docx, iWork Pages files are supported, you can also import webpages into Aloud!
+    fontawesome_icon_name                 : file
 
   - title                                 : Control Reading Progress, Speed and Pitch
-    description                           : Aloud! highlights the current reading progress for your easy following. At anytime, you can skip to whatever section you like and adjust the reading speed and pitch as you prefer.
+    description                           : Aloud! highlights the current reading progress for your easy following. At anytime, you can skip to whatever section you like, or adjust the reading speed or pitch as you prefer.
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Save Texts and Progress
-    description                           : 
-    fontawesome_icon_name                 : sync
+    description                           : Aloud! automatically saves your progress as you listen to the text, you may stop and resume reading whenever you like.
+    fontawesome_icon_name                 : save
 
 
 
@@ -63,24 +63,24 @@ cover_overlay_transparency                : 0.8
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#ffffff"
+body_background_color                     : "#56c7f1"
 
-link_color                                : "#1d63ea"
+link_color                                : "#666666"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
-feature_title_color                       : "#000000"
-feature_text_color                        : "#666666"
+feature_title_color                       : "#ffffff"
+feature_text_color                        : "#e6e6e6"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#56c7f1"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
 
-footer_text_color                         : "#666666"
+footer_text_color                         : "#e6e6e6"
 
 
 
